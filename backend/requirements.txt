@@ -1,0 +1,8 @@
+    Flask
+    Flask-Cors
+    torch
+    transformers
+    peft
+    scipy
+    numpy
+    
